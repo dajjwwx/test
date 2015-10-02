@@ -1,0 +1,15 @@
+<?php
+class Conflict
+{
+	public function getId()
+	{
+		echo "Say Hello world~";
+<<<<<<< Updated upstream
+		echo "New Content";
+		echo "Add New line"
+=======
+		echo "Git New Content";
+>>>>>>> Stashed changes
+	}
+}
+?>
