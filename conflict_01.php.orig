@@ -6,9 +6,9 @@ class Conflict
 		echo "Say Hello world~";
 <<<<<<< Updated upstream
 		echo "New Content";
-		echo "Add New line"
+		echo "Old New line"
 =======
-		echo "Git New Content";
+		echo "I 've new content add to this file";
 >>>>>>> Stashed changes
 	}
 }
