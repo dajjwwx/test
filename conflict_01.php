@@ -3,7 +3,8 @@ class Conflict
 {
 	public function getId()
 	{
-		echo "Say yes";
+		echo "Say Hello world~";
+		echo "New Content";
 	}
 }
 ?>
