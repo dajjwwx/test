@@ -5,6 +5,7 @@ class Conflict
 	{
 		echo "Say Hello world~";
 		echo "New Content";
+		echo "Add New line"
 	}
 }
 ?>
